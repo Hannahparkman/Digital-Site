@@ -1,0 +1,288 @@
+
+ol li { 
+color: #4e7ed3;
+}
+
+
+h1 {
+color: #5d5b65;
+text-align: center;
+font-size: 300%;
+font-family: 'Arvo', serif;
+
+}
+
+h2 {
+color: #5d5b65;
+text-align: center;
+font-family: 'Arvo', serif;
+}
+
+
+h3 {
+ font-size: 190%;
+color: #5d5b65;
+font-family: 'Arvo', serif;
+}
+
+
+body {
+    background-color: #070606;
+}
+
+
+.sun {
+    position: absolute;
+    left: 0px;
+    bottom: -50px;
+    width: 305px;
+    height: 450px;
+    padding: 1px; 
+}
+
+.sun:hover {
+    width: 310px;
+    height: 455px;
+}
+
+.mercury {
+    position: absolute;
+    left: 280px;
+    bottom: 100px;
+    width: 130px;
+    height: 130px;
+    padding: 1px; 
+}
+
+.mercury:hover {
+    width: 135px;
+    height: 135px;
+}
+
+
+.venus {
+    position: absolute;
+    left: 410px;
+    bottom: 130px;
+    width: 170px;
+    height: 170px;
+    padding: 1px; 
+}
+
+.venus:hover {
+   width: 175px;
+    height: 175px;
+}
+
+.earth {
+    position: absolute;
+    left: 560px;
+    bottom: 210px;
+    width: 190px;
+    height: 190px;
+    padding: 1px; 
+}
+
+.earth:hover {
+   width: 195px;
+    height: 195px;
+}
+
+.mars {
+    position: absolute;
+    left: 730px;
+    bottom: 340px;
+    width: 140px;
+    height: 140px;
+    padding: 1px; 
+}
+
+.mars:hover {
+   width: 145px;
+    height: 145px;
+}
+
+.jupiter {
+    position: absolute;
+    left: 740px;
+    bottom: -15px;
+    width: 285px;
+    height: 279px;
+    padding: 1px; 
+}
+.jupiter:hover {
+   width: 290px;
+    height: 284px;
+}
+
+.saturn {
+    position: absolute;
+    left: 840px;
+    bottom: 197px;
+    width: 440px;
+    height:auto
+    padding: 1px; 
+    transform: rotate(25deg);
+}
+
+.saturn:hover {
+   width: 445px;
+}
+
+.uranus {
+    position: absolute;
+    left: 1055px;
+    bottom: 345px;
+    width: 230px;
+    height: 230px;
+    padding: 1px; 
+}
+
+.uranus:hover {
+   width: 235px;
+    height: 235px;
+}
+
+.neptune {
+  position: absolute;
+    left: 1220px;
+    bottom: 475px;
+    width: 220px;
+    height: 220px;
+    padding: 1px; 
+}
+
+.neptune:hover {
+   width: 225px;
+    height: 225px;
+}
+
+.earth2 {
+    position: absolute;
+    left: 200px;
+    bottom: 270px;
+    width: 310px;
+    height: 310px;
+}
+
+.earth2:hover {
+    width: 315px;
+    height: 315px;
+}
+
+.jupiter2 {
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 350px;
+    height: 350px;
+}
+
+.sun2 {
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+    width: 450px;
+    height: 350px;
+}
+
+.mercury2 {
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 350px;
+    height: 350px;
+}
+
+.mars2 {
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 350px;
+    height: 350px;
+}
+
+.saturn2 {
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+    width: 500px;
+    height:auto
+    transform: rotate(50deg);
+}
+
+.neptune2 {
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 350px;
+    height: 350px;
+}
+
+.uranus2 {
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 350px;
+    height: 350px;
+}
+
+.venus2 {
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 350px;
+    height: 350px;
+}
+
+.pear {
+ text-align: center;
+overflow: hidden;
+max-width: 500px;
+margin-left: 710px;
+margin-top: 100px;
+font-weight: 900;
+font-size: 150%;
+list-style-type:none;
+border: 5px solid #307430;
+border-radius: 8px;
+padding: 10px;
+font-family:'PT Sans', sans-serif;
+}
+    
+.banana {
+ margin-left:  700px;
+margin-right: 50px;
+ text-align: justify;
+font-family:'PT Sans', sans-serif;
+max-width: 600px;
+}
+
+.apple {
+ font-family:'PT Sans', sans-serif;
+margin-left: 920px;
+  margin-top: 100px
+}
+
+.video {
+    margin-left: 150px;
+    margin-bottom: 2150px;
+}
+
+.r {
+    text-align: center;
+}
+
+.strawberry {
+text-align: center;
+margin-left: 420px;
+overflow: hidden;
+max-width: 500px;
+font-weight: 900;
+font-size: 150%;
+list-style-type:none;
+border: 5px solid #307430;
+border-radius: 8px;
+padding: 10px;
+font-family:'PT Sans', sans-serif;
+}
